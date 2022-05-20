@@ -21,7 +21,7 @@ export default function App() {
 
   return (
     <SafeAreaView style={styles.container}>
-      <Text>Hello Worlds!</Text>
+      <Text>Hello World!</Text>
       <Button
         // onPress={onPressLearnMore}
         title='Learn More'
